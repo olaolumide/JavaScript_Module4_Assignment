@@ -1,0 +1,37 @@
+What is DOM?
+ DOM (Document Object Model) is a standard created for the accessement of any HTML documents
+ for manipulation .
+ 
+ List three method to manipulate the DOM.
+ These are some of the DOM methods that can be used to manipulate HTML document:
+ . createElement
+ . innerHTML
+ . appendChild
+ 
+ What is an asynchronous call?
+ Asynchronous is a call to action once a processing finishes. This means asynchronous 
+ is called at any time whening parsing is happening on the server.
+ 
+ Briefly explain what the source tab in Chromes Developers Tools does.
+ The source tab in chromes is use for debuging JavaScript. Inside the source tab, all files linked together 
+ can be seen here. As a result, one can check and debug any error in any of the codes files; JavaScript 
+ particularly. The breakpoint, step through and others are available for debuging through the 
+ the source tab.
+ 
+ What is Javascript promise?
+ JavaScript Promise is a constructor that takes an argument and a callback with two parameters which 
+ is use to resolve or reject the callback when asynchronised.
+ 
+ What is an API?
+ Application Programming Interface (API) is a method by which data is serve and communicated 
+ through to other interface or software.
+ 
+  What is Javascript event?
+ JavaScript event is all about interaction with the webpage. When an event is Triggered 
+ by a user interacting with an element to manipulate the webpage or other form of interaction by 
+ the browser is known as Javascript Event. 
+ 
+ What is event bubbling?
+ Also known as event propagation; event bubbling is when an aplication on a webpage 
+ which has a parent element is interacted with by users and the child event runs or
+flows back to the parent event.
